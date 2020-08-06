@@ -1,4 +1,4 @@
-### Hi there, I'm Ayoub Jarek - aka [Ex6tra][github] 👋
+### Hi there, I'm Ayoub Jarek - aka [ex6tra][github] 👋
 
 ## I'm a Full-Stack developer specialized in making 3D Games!
 - 🍭 I’m currently working on Android games!
