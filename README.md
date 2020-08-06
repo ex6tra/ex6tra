@@ -20,8 +20,6 @@
 
 ---
 
-<img align="left" alt="ex6tra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ex6tra&show_icons=true&hide_border=true" />
-
 [website]: https://anfamedia.com
 [github]: https://github.com/ex6tra
 [twitter]: https://twitter.com/ex6tra
