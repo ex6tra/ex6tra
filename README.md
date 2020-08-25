@@ -1,8 +1,8 @@
-### Hi there, I'm Ayoub Jarek - aka [ex6tra][github] 👋
+### Hi there, I'm Ayoub JAREK - aka [ex6tra][github] 👋
 
 ## I'm a Full-Stack developer specialized in making 3D Games!
 - 🍭 I’m currently working on Mobile games!
-- 🌱 I’m currently learning everything.
+- 🌱 Learning everything.
 - 👯 I’m looking to collaborate with other game creators.
 - 🥅 2020 Goals: Stretch my game development skills and build a small team.
 - ⚡ Fun fact: I love to play games as well, competitively and for fun.
