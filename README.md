@@ -4,7 +4,7 @@
 - 🍭 I’m currently working on Mobile games!
 - 🌱 Learning everything.
 - 👯 I’m looking to collaborate with other game creators.
-- 🥅 2020 Goals: Stretch my game development skills and build a small team.
+- 🥅 2021 Goals: Stretch my game development skills and build a small team.
 - ⚡ Fun fact: I love to play games as well, competitively and for fun.
 
 ### Connect with me:
